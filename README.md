@@ -32,7 +32,7 @@ and highly user-friendly.
 * Introduction to `GPT-2` and `T5`
 * Learning about methods to evaluate Text Generation Models
 * Implemented GPT-2 and T5 model for Text Generation on a custom made dataset
-and evaluated their preformance using `BLEU` scores
+and evaluated their performance using `BLEU` scores
 
 The `DATA_SOC` file contains the data used as input for the models. The models were tested on 3 different domains namely, 
 Scientific Literature, Finance and Music/Entertainment, with 10 articles in each domain. The respective BLEU scores were
@@ -44,7 +44,7 @@ best in the "Music/Entertainment" domain.
 
 **Concluding Remarks**
 
-I'd like to thank my mentor for guiding me throughout the project and my co-mentees for the intelectually stimulating 
+I'd like to thank my mentor for guiding me throughout the project and my co-mentees for the intellectually stimulating 
 discussions on various topics. I really enjoyed the project and got to learn lots!\
 Thank you guys!
 
