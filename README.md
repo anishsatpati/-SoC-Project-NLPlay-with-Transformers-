@@ -2,7 +2,7 @@
 
 This is a Learning Project and has been divided into 3 phases:
 
-Phase 1: 
+**Phase 1:**
 * Introduction to NLP
 * Introduction to `PyTorch`
 * Creating a Sentiment Classifier using Neural Network
@@ -13,7 +13,7 @@ The Sentiment Analysis has been carried out on the IMDB Movie Review dataset whi
 and is divided equally into positive and negative reviews.
 The models have been made by utilizing the PyTorch framework.
 
-Phase 2:
+**Phase 2:**
 * Introduction to Attention in Deep Learning
 * Introduction to Transformers and their working
 * Learning about Transformers like `BERT`, `RoBERTa`, `XLNet` & `DistilBERT`
@@ -24,5 +24,5 @@ Phase 2:
   * `xlnet-base-cased` (XLNet)
 
 
-Phase 3:
+**Phase 3:**
 
