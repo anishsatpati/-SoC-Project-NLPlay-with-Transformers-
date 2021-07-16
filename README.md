@@ -36,14 +36,16 @@ and evaluated their preformance using `BLEU` scores
 
 The `DATA_SOC` file contains the data used as input for the models. The models were tested on 3 different domains namely, 
 Scientific Literature, Finance and Music/Entertainment, with 10 articles in each domain. The respective BLEU scores were
-calculated for each article in each domain as well as an overall BLEU score for each domain.
-
+calculated for each article in each domain as well as an overall BLEU score for each domain.\
 
 Based on the results, we conclude that the GPT-2 model works best in the "Finance" domain whereas the T5 model preforms the
 best in the "Music/Entertainment" domain.
 
+
 **Concluding Remarks**
-I thank Tezan Sahu for guiding me through the project and for helping me overcome all the difficulties that I 
+I thank **Tezan Sahu** for guiding me throughout the project and for helping me overcome all the difficulties that I faced.\ 
+I would also like to thank my co-mentees for the intelectually stimulating discussions on various topics.\
+I really enjoyed the project and got to learn lots!
 
 
 
