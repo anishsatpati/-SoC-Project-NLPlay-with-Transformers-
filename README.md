@@ -1,5 +1,5 @@
 # NLPlay with Transformers (Summer of Code Project)
-## Mentor: Tezan Sahu
+### Mentor: Tezan Sahu
 This is a Learning Project and has been divided into 3 phases:
 
 **Phase 1:**
