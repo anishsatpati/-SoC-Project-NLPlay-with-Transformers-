@@ -1,5 +1,5 @@
 # NLPlay with Transformers (Summer of Code Project)
-
+## Mentor: Tezan Sahu
 This is a Learning Project and has been divided into 3 phases:
 
 **Phase 1:**
@@ -42,12 +42,11 @@ Based on the results, we conclude that the GPT-2 model works best in the "Financ
 best in the "Music/Entertainment" domain.
 
 
-**Concluding Remarks**\
-I thank **Tezan Sahu** for guiding me throughout the project and for helping me overcome all the difficulties that I faced.\ 
+**Concluding Remarks**
 
-I would also like to thank my co-mentees for the intelectually stimulating discussions on various topics.\
-
-I really enjoyed the project and got to learn lots! Thank you guys!
+I'd like to thank my mentor for guiding me throughout the project and my co-mentees for the intelectually stimulating 
+discussions on various topics. I really enjoyed the project and got to learn lots!\
+Thank you guys!
 
 
 
