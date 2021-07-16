@@ -42,10 +42,12 @@ Based on the results, we conclude that the GPT-2 model works best in the "Financ
 best in the "Music/Entertainment" domain.
 
 
-**Concluding Remarks**
+**Concluding Remarks**\
 I thank **Tezan Sahu** for guiding me throughout the project and for helping me overcome all the difficulties that I faced.\ 
+
 I would also like to thank my co-mentees for the intelectually stimulating discussions on various topics.\
-I really enjoyed the project and got to learn lots!
+
+I really enjoyed the project and got to learn lots! Thank you guys!
 
 
 
