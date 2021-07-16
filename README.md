@@ -38,7 +38,7 @@ The `DATA_SOC` file contains the data used as input for the models. The models w
 Scientific Literature, Finance and Music/Entertainment, with 10 articles in each domain. The respective BLEU scores were
 calculated for each article in each domain as well as an overall BLEU score for each domain.
 
-Based on the results, we conclude that the GPT-2 model works best in the "Finance" domain whereas the T5 model preforms the
+Based on the results, we conclude that both the GPT-2 and T5 models preform the
 best in the "Music/Entertainment" domain.
 
 
