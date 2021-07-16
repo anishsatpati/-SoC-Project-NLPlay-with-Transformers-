@@ -34,6 +34,16 @@ and highly user-friendly.
 * Implemented GPT-2 and T5 model for Text Generation on a custom made dataset\
 and evaluated their preformance using `BLEU` scores
 
+The `DATA_SOC` file contains the data used as input for the models. The models were tested on 3 different domains namely, 
+Scientific Literature, Finance and Music/Entertainment, with 10 articles in each domain. The respective BLEU scores were
+calculated for each article in each domain as well as an overall BLEU score for each domain.
+
+
+Based on the results, we conclude that the GPT-2 model works best in the "Finance" domain whereas the T5 model preforms the
+best in the "Music/Entertainment" domain.
+
+
+
 
 
 
