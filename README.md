@@ -23,6 +23,15 @@ The models have been made by utilizing the PyTorch framework.
   * `roberta-base` (RoBERTa)
   * `xlnet-base-cased` (XLNet)
 
+The ` HuggingFace` Transformers Documentation proved to be really useful while coding the models, it is easy to understand
+and highly user-friendly.
+
 
 **Phase 3:**
+* Introduction to `GPT-2` and `T5`
+* 
+
+
+
+
 
