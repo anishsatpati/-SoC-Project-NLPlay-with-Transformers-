@@ -1,4 +1,4 @@
-# -SoC-Project-NLPlay-with-Transformers-
+# NLPlay with Transformers (Summer of Code Project)
 
 This is a Learning Project and has been divided into 3 phases:
 
@@ -42,7 +42,7 @@ calculated for each article in each domain as well as an overall BLEU score for 
 Based on the results, we conclude that the GPT-2 model works best in the "Finance" domain whereas the T5 model preforms the
 best in the "Music/Entertainment" domain.
 
-
+**Concluding Remarks**
 
 
 
