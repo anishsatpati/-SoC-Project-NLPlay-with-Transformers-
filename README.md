@@ -31,7 +31,7 @@ and highly user-friendly.
 * Introduction to Text Generation using Transformers
 * Introduction to `GPT-2` and `T5`
 * Learning about methods to evaluate Text Generation Models
-* Implemented GPT-2 and T5 model for Text Generation on a custom made dataset\
+* Implemented GPT-2 and T5 model for Text Generation on a custom made dataset
 and evaluated their preformance using `BLEU` scores
 
 The `DATA_SOC` file contains the data used as input for the models. The models were tested on 3 different domains namely, 
