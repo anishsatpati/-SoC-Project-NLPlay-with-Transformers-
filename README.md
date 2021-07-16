@@ -43,7 +43,7 @@ Based on the results, we conclude that the GPT-2 model works best in the "Financ
 best in the "Music/Entertainment" domain.
 
 **Concluding Remarks**
-
+I thank Tezan Sahu for guiding me through the project and for helping me overcome all the difficulties that I 
 
 
 
